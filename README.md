@@ -1,4 +1,4 @@
-# dtc-print-service
+# dtc-GIS-map
 
 ## Project setup
 ```
